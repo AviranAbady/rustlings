@@ -1,4 +1,4 @@
-// quiz1.rs
+// quiz1.rs Solution
 // This is a quiz for the following sections:
 // - Variables
 // - Functions
@@ -10,10 +10,16 @@
 // Write a function that calculates the price of an order of apples given
 // the quantity bought. No hints this time!
 
-// I AM NOT DONE
 
 // Put your function here!
-// fn calculate_price_of_apples {
+fn calculate_price_of_apples(amount: u32) -> u32 {
+    if amount > 40 {
+        amount
+    }
+    else {
+        amount * 2
+    }
+}
 
 // Don't modify this function!
 #[test]
