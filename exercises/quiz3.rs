@@ -11,9 +11,9 @@
 // print both types of report card!
 //
 // Make the necessary code changes in the struct ReportCard and the impl block
-// to support alphabetical report cards. Change the Grade in the second test to
-// "A+" to show that your changes allow alphabetical grades.
-//
+// to support alphabetical report cards. Change the Grade in the second test to "A+"
+// to show that your changes allow alphabetical grades.
+
 // Execute `rustlings hint quiz3` or use the `hint` watch subcommand for a hint.
 
 // I AM NOT DONE
